@@ -1,7 +1,7 @@
 Read Tomorrow's Gmail Script
 ============================
 
-Propose
+Purpose
 -------
 
 This tutorial will help you collect those not so important emails you do have
