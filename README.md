@@ -4,11 +4,12 @@ Read Tomorrow's GMail Script
 Purpose
 -------
 
-This tutorial will help you collect those not so important emails you do have to
-read (or skim over) and deliver them to your inbox when you want.
+This solution will help you collect those not so important emails you do have to
+read (or skim over) and deliver them to your inbox with a specific frequency so
+you don't have to be checking them all the time.
 
 Do you have too many emails arriving all day to your inbox? With this script you
-can delay all this annoying emails and handle them just once a day. (Only
+can delay all this annoying emails and handle them only once a day. (Only
 compatible with GMail).
 
 Prerequisites
