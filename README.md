@@ -1,22 +1,22 @@
-Read Tomorrow's Gmail Script
+Read Tomorrow's GMail Script
 ============================
 
 Purpose
 -------
 
-This tutorial will help you collect those not so important emails you do have
-to read (or skim over) and deliver them to your inbox when you want.
+This tutorial will help you collect those not so important emails you do have to
+read (or skim over) and deliver them to your inbox when you want.
 
-Do you have too many emails arriving all day to your inbox? With this script
-you can delay all this annoying emails and handle them just once a day. (Only
+Do you have too many emails arriving all day to your inbox? With this script you
+can delay all this annoying emails and handle them just once a day. (Only
 compatible with GMail).
 
 Prerequisites
 -------------
 
 * Have GMail or similar Google Apps Email.
-* Create a label called "Read Tomorrow" in your email (or the name you like
-most for this feature, please remember it).
+* Create a label called "Read Tomorrow" in your email (or the name you like most
+for this feature, please remember it).
 * Add an email filter that will automatically remove annoying emails from your
 inbox and will put them in your newly created label. Optionally you can mark
 them as read because they will be marked as unread automatically.
@@ -53,5 +53,5 @@ Extra customizations
 --------------------
 
 **Hiding label:** It is a bit useless (and it bothers me) to see the label
-there, you shouldn't even need to click it anyway so you can hide it by
-clicking in the label's right arrow and marking "Hide".
+there, you shouldn't even need to click it anyway so you can hide it by clicking
+in the label's right arrow and marking "Hide".
