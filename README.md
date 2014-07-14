@@ -1,10 +1,11 @@
 Read Tomorrow's Gmail Script
 ============================
 
-Helpful script to postpone reading annoying emails.
-
 Propose
 -------
+
+This tutorial will help you collect those not so important emails you do have
+to read (or skim over) and deliver them to your inbox when you want.
 
 Do you have too many emails arriving all day to your inbox? With this script
 you can delay all this annoying emails and handle them just once a day. (Only
